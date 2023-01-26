@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta name="go-import" content="go.flowed.app/public-api git https://github.com/flowedapp/public-api/go">
-        <meta name="go-source" content="go.flowed.app/public-api https://github.com/flowedapp/public-api/go https://github.com/flowedapp/public-api/tree/master/go{/dir} https://github.com/flowedapp/public-api/tree/master/go{/dir}/{file}#L{line}">
+        <meta name="go-import" content="go.flowed.app/public-api git https://github.com/flowedapp/public-api">
+        <meta name="go-source" content="go.flowed.app/public-api https://github.com/flowedapp/public-api https://github.com/flowedapp/public-api/tree/master/go{/dir} https://github.com/flowedapp/public-api/tree/master/go{/dir}/{file}#L{line}">
         <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/go.flowed.app/public-api">
     </head>
     <body>
